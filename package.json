@@ -1,0 +1,26 @@
+{
+  "name": "day5",
+  "version": "1.0.0",
+  "description": "Day 5 Javacsript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrongCatto/Backend-Javascript.git"
+  },
+  "keywords": [
+    "Day",
+    "5"
+  ],
+  "author": "George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrongCatto/Backend-Javascript/issues"
+  },
+  "homepage": "https://github.com/StrongCatto/Backend-Javascript#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
