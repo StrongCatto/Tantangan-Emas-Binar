@@ -22,5 +22,5 @@ const server = http.createServer((req, res) => {
 });
 server.listen(PORT, () => {
     console.log('Server Listening on Port :', PORT);
-
+    console.log('Hello world')
 });
