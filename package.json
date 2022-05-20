@@ -22,5 +22,8 @@
   "homepage": "https://github.com/StrongCatto/Backend-Javascript#readme",
   "dependencies": {
     "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
