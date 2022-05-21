@@ -1,0 +1,11 @@
+[
+    {
+    "key": "ini value dai key"
+    },
+    {
+      "key": "ini value dari key",
+      "isTrue": false,
+      "price": 100000,
+      "stock": null
+    }
+  ]
